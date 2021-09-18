@@ -1,3 +1,8 @@
-git is awesome!
-new line
-experiment with amend
+git is awesome! yes
+new line and new life
+experiment with index
+new experiment is beatufull
+
+
+
+add some new lines 
